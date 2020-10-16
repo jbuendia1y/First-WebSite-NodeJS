@@ -1,0 +1,10 @@
+body{
+    background: -webkit-linear-gradient(to right, #4e54c8, #8f94fb);
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+}
+
+.container-hatsune{
+    display: flex;
+    justify-content: center;
+    padding: 5em;
+}
