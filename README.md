@@ -6,7 +6,7 @@ _Este proyecto es una prueba de mis conocimientos actuales :v_
 
 _Herramientas usadas en el proyecto_
 
-* [Boostrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 * [NodeJS](https://nodejs.org/en/)
 * [Express](https://expressjs.com/es/)
 
